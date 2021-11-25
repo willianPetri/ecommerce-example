@@ -13,7 +13,7 @@ const Header = () => {
         <a href="/" className="text-gray-600 hover:text-purple-600 p-4">Blog</a>
         <a href="/" className="text-gray-600 hover:text-purple-600 p-4">Contact</a>
         <a href="/" className="bg-purple-600 text-gray-50 hover:bg-purple-700 p-3 px-5 rounded-full">
-          <i className='fas fa-shopping-cart h-6 w-6 inline-block animate-bounce' />
+          <i className='fas fa-shopping-cart h-6 w-6 inline-block animate-bounce mr-1' />
           Cart (0)
         </a>
       </div>
